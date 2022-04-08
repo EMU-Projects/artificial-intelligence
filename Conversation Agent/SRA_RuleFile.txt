@@ -1,0 +1,8 @@
+How are you?:Thanks, what about you?
+What is your name?:SRCAgent|I am a chat bot and my name is SRCAgent
+:You are silent!
+What are you doing now?:I play tennis.
+What is your major?:Computer Engineering.|Electrical Engineering
+Why is the sky blue?:Blue light is scattered more than other colors because it travels as shorter, smaller waves
+What is your favorite hobby?:I love to play the play the piano|I enjoy cooking every now and then
+What is your favorite color?:Green

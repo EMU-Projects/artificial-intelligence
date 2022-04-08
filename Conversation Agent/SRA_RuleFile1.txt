@@ -1,0 +1,5 @@
+How are you?:Thanks, what about you?
+What is your name?:SRCAgent
+:You are silent!
+Thanks.:
+What are you doing now?:Chatting with you 
